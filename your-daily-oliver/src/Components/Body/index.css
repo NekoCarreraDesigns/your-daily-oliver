@@ -1,0 +1,12 @@
+.oliver-paragraph {
+  color: black;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 30px;
+}
+.oliver-face-pic {
+  background-image: image("OliverFace.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
